@@ -36,4 +36,4 @@ def weth(url):
         print(f"Failed to fetch data from API. Error: {e}")
 
 
-#weth(url).head()
+weather=weth(url)
